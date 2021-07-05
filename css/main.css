@@ -82,3 +82,7 @@
 i {
     color: white;
 }
+
+#col {
+    display: grid;
+}
